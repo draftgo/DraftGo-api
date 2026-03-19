@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/QuantumNous/new-api/common"
-	"github.com/QuantumNous/new-api/setting/config"
-	"github.com/QuantumNous/new-api/types"
+	"github.com/draftgo/DraftGo-api/common"
+	"github.com/draftgo/DraftGo-api/setting/config"
+	"github.com/draftgo/DraftGo-api/types"
 )
 
 var defaultGroupRatio = map[string]float64{

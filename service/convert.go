@@ -5,12 +5,12 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/QuantumNous/new-api/common"
-	"github.com/QuantumNous/new-api/constant"
-	"github.com/QuantumNous/new-api/dto"
-	"github.com/QuantumNous/new-api/relay/channel/openrouter"
-	relaycommon "github.com/QuantumNous/new-api/relay/common"
-	"github.com/QuantumNous/new-api/relay/reasonmap"
+	"github.com/draftgo/DraftGo-api/common"
+	"github.com/draftgo/DraftGo-api/constant"
+	"github.com/draftgo/DraftGo-api/dto"
+	"github.com/draftgo/DraftGo-api/relay/channel/openrouter"
+	relaycommon "github.com/draftgo/DraftGo-api/relay/common"
+	"github.com/draftgo/DraftGo-api/relay/reasonmap"
 	"github.com/samber/lo"
 )
 

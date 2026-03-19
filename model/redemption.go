@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/QuantumNous/new-api/common"
-	"github.com/QuantumNous/new-api/logger"
+	"github.com/draftgo/DraftGo-api/common"
+	"github.com/draftgo/DraftGo-api/logger"
 
 	"gorm.io/gorm"
 )

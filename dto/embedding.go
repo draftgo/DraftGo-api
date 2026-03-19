@@ -3,7 +3,7 @@ package dto
 import (
 	"strings"
 
-	"github.com/QuantumNous/new-api/types"
+	"github.com/draftgo/DraftGo-api/types"
 
 	"github.com/gin-gonic/gin"
 )

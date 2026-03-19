@@ -10,13 +10,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/QuantumNous/new-api/common"
-	"github.com/QuantumNous/new-api/constant"
-	"github.com/QuantumNous/new-api/dto"
-	"github.com/QuantumNous/new-api/logger"
-	"github.com/QuantumNous/new-api/model"
-	"github.com/QuantumNous/new-api/relay/channel/task/taskcommon"
-	relaycommon "github.com/QuantumNous/new-api/relay/common"
+	"github.com/draftgo/DraftGo-api/common"
+	"github.com/draftgo/DraftGo-api/constant"
+	"github.com/draftgo/DraftGo-api/dto"
+	"github.com/draftgo/DraftGo-api/logger"
+	"github.com/draftgo/DraftGo-api/model"
+	"github.com/draftgo/DraftGo-api/relay/channel/task/taskcommon"
+	relaycommon "github.com/draftgo/DraftGo-api/relay/common"
 
 	"github.com/samber/lo"
 )

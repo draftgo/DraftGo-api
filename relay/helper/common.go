@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/QuantumNous/new-api/common"
-	"github.com/QuantumNous/new-api/dto"
-	"github.com/QuantumNous/new-api/logger"
-	"github.com/QuantumNous/new-api/types"
+	"github.com/draftgo/DraftGo-api/common"
+	"github.com/draftgo/DraftGo-api/dto"
+	"github.com/draftgo/DraftGo-api/logger"
+	"github.com/draftgo/DraftGo-api/types"
 
 	"github.com/gin-gonic/gin"
 	"github.com/gorilla/websocket"

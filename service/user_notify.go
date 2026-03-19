@@ -8,10 +8,10 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/QuantumNous/new-api/common"
-	"github.com/QuantumNous/new-api/dto"
-	"github.com/QuantumNous/new-api/model"
-	"github.com/QuantumNous/new-api/setting/system_setting"
+	"github.com/draftgo/DraftGo-api/common"
+	"github.com/draftgo/DraftGo-api/dto"
+	"github.com/draftgo/DraftGo-api/model"
+	"github.com/draftgo/DraftGo-api/setting/system_setting"
 )
 
 func NotifyRootUser(t string, subject string, content string) {

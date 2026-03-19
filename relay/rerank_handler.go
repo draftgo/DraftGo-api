@@ -6,13 +6,13 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/QuantumNous/new-api/common"
-	"github.com/QuantumNous/new-api/dto"
-	relaycommon "github.com/QuantumNous/new-api/relay/common"
-	"github.com/QuantumNous/new-api/relay/helper"
-	"github.com/QuantumNous/new-api/service"
-	"github.com/QuantumNous/new-api/setting/model_setting"
-	"github.com/QuantumNous/new-api/types"
+	"github.com/draftgo/DraftGo-api/common"
+	"github.com/draftgo/DraftGo-api/dto"
+	relaycommon "github.com/draftgo/DraftGo-api/relay/common"
+	"github.com/draftgo/DraftGo-api/relay/helper"
+	"github.com/draftgo/DraftGo-api/service"
+	"github.com/draftgo/DraftGo-api/setting/model_setting"
+	"github.com/draftgo/DraftGo-api/types"
 
 	"github.com/gin-gonic/gin"
 )

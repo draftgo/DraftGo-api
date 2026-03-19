@@ -4,10 +4,10 @@ import (
 	"encoding/base64"
 	"fmt"
 
-	"github.com/QuantumNous/new-api/common"
-	"github.com/QuantumNous/new-api/model"
-	relaycommon "github.com/QuantumNous/new-api/relay/common"
-	"github.com/QuantumNous/new-api/setting/system_setting"
+	"github.com/draftgo/DraftGo-api/common"
+	"github.com/draftgo/DraftGo-api/model"
+	relaycommon "github.com/draftgo/DraftGo-api/relay/common"
+	"github.com/draftgo/DraftGo-api/setting/system_setting"
 	"github.com/gin-gonic/gin"
 )
 

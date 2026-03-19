@@ -1,11 +1,11 @@
 package router
 
 import (
-	"github.com/QuantumNous/new-api/constant"
-	"github.com/QuantumNous/new-api/controller"
-	"github.com/QuantumNous/new-api/middleware"
-	"github.com/QuantumNous/new-api/relay"
-	"github.com/QuantumNous/new-api/types"
+	"github.com/draftgo/DraftGo-api/constant"
+	"github.com/draftgo/DraftGo-api/controller"
+	"github.com/draftgo/DraftGo-api/middleware"
+	"github.com/draftgo/DraftGo-api/relay"
+	"github.com/draftgo/DraftGo-api/types"
 
 	"github.com/gin-gonic/gin"
 )

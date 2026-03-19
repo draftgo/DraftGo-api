@@ -3,9 +3,9 @@ package middleware
 import (
 	"fmt"
 
-	"github.com/QuantumNous/new-api/common"
-	"github.com/QuantumNous/new-api/logger"
-	"github.com/QuantumNous/new-api/types"
+	"github.com/draftgo/DraftGo-api/common"
+	"github.com/draftgo/DraftGo-api/logger"
+	"github.com/draftgo/DraftGo-api/types"
 	"github.com/gin-gonic/gin"
 )
 

@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/QuantumNous/new-api/dto"
-	"github.com/QuantumNous/new-api/relay/common"
-	relayconstant "github.com/QuantumNous/new-api/relay/constant"
-	"github.com/QuantumNous/new-api/setting/ratio_setting"
+	"github.com/draftgo/DraftGo-api/dto"
+	"github.com/draftgo/DraftGo-api/relay/common"
+	relayconstant "github.com/draftgo/DraftGo-api/relay/constant"
+	"github.com/draftgo/DraftGo-api/setting/ratio_setting"
 	"github.com/gin-gonic/gin"
 )
 

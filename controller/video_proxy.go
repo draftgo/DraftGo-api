@@ -10,10 +10,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/QuantumNous/new-api/constant"
-	"github.com/QuantumNous/new-api/logger"
-	"github.com/QuantumNous/new-api/model"
-	"github.com/QuantumNous/new-api/service"
+	"github.com/draftgo/DraftGo-api/constant"
+	"github.com/draftgo/DraftGo-api/logger"
+	"github.com/draftgo/DraftGo-api/model"
+	"github.com/draftgo/DraftGo-api/service"
 
 	"github.com/gin-gonic/gin"
 )

@@ -3,7 +3,7 @@ package model
 import (
 	"strconv"
 
-	"github.com/QuantumNous/new-api/common"
+	"github.com/draftgo/DraftGo-api/common"
 
 	"gorm.io/gorm"
 )

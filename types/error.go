@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/QuantumNous/new-api/common"
+	"github.com/draftgo/DraftGo-api/common"
 )
 
 type OpenAIError struct {

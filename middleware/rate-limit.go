@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/QuantumNous/new-api/common"
+	"github.com/draftgo/DraftGo-api/common"
 	"github.com/gin-gonic/gin"
 )
 

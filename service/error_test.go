@@ -3,7 +3,7 @@ package service
 import (
 	"testing"
 
-	"github.com/QuantumNous/new-api/types"
+	"github.com/draftgo/DraftGo-api/types"
 	"github.com/stretchr/testify/require"
 )
 
